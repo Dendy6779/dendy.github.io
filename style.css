@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/* awal jumbotron */
+.jumbotron {
+    background-image: url(herosayurdanbuah.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.jumbotron .hero h1  {
+    text-align: center;
+    margin-bottom: -250px;
+    line-height: 600px;
+    font-size: 90px;
+    font-weight: bold;
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+}
+.hero h2 {
+    color: gold;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3px;
+}
+/* akhir jumbotron */
+
+/* awal selengkapnya */
+.dendi {
+    text-align: center;
+}
+.dendi a {
+    font-size: 20px;
+    margin-right: 35px;
+}
+.dendi a button {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+.dendi button:hover {
+    color: yellow;
+}
+/* akhir selengkapnya */
+
+.container3 {
+    background-color: aliceblue;
+    text-align: center;
+    height: 200px;
+    margin-top: 50px;
+}
+
+
+.container5 {
+    width: 100%;
+    background-color: green;
+    height: 70px;
+    color: aliceblue;
+}
+.container5 ul {
+    text-align: center;
+
+}
+.container5 ul li {
+    display: inline-block;
+    padding: 30px;
+
+}
+
+.container5 a i{
+    color: aliceblue;
+    height: 200px;
+}
